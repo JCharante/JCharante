@@ -5,10 +5,8 @@ I'm Jyan.
 Current efforts 🔭
 - Porting older projects to new docker swarm hosting solution
 - Creating a reading aide with word segmentation for Vietnamese learners
-
-Personal:
 - Studying Vietnamese, 1000+ anki cards so far. 70+ hours of Italki lessons.
-
+- Spending more time with the cat 🐈🐈 and bunny 🐇 roommates
 
 <!--
 **JCharante/JCharante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
