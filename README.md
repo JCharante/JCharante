@@ -1,4 +1,4 @@
-Javascript's default .sort() method treats numbers as strings
+⚡ TIL Javascript's default .sort() method treats numbers as strings
 
 ![image](https://user-images.githubusercontent.com/13973198/89717086-05d3da00-d981-11ea-9cc8-693f73691fd3.png)
 
@@ -8,8 +8,8 @@ I'm Jyan.
 
 Current efforts 🔭
 - Porting older projects to new docker swarm hosting solution
-- Creating a reading aide with word segmentation for Vietnamese learners
-- Studying Vietnamese, 1000+ anki cards so far. 70+ hours of Italki lessons.
+- Creating a better solution to text segmentation for language learning
+- Studying Vietnamese, 1200+ anki cards so far. 80+ hours of Italki lessons.
 - Spending more time with the cat 🐈🐈 and bunny 🐇 roommates
 
 <!--
