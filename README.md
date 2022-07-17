@@ -7,7 +7,6 @@
 I'm Jyan.
 
 Current efforts 🔭
-- Porting older projects to new docker swarm hosting solution
 - Studying Vietnamese, 2600+ anki cards so far.
 
 <!--
