@@ -4,11 +4,6 @@
 
 ### Hi there 👋
 
-I'm Jyan.
-
-Current efforts 🔭
-- Studying Vietnamese, 2600+ anki cards so far.
-
 <!--
 **JCharante/JCharante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
