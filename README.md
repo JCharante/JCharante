@@ -1,8 +1,11 @@
+Blog: https://gist.github.com/JCharante
+
+React developer who enjoys making warcrimes with SQL queries
+
 ⚡ TIL Javascript's default .sort() method treats numbers as strings
 
 ![image](https://user-images.githubusercontent.com/13973198/89717086-05d3da00-d981-11ea-9cc8-693f73691fd3.png)
 
-### Hi there 👋
 
 <!--
 **JCharante/JCharante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
