@@ -1,6 +1,10 @@
 Blog: https://gist.github.com/JCharante
 
-React developer who enjoys making warcrimes with SQL queries
+About me: React developer who enjoys making warcrimes with SQL queries
+
+🔭 Working on [my Minecraft mod](https://github.com/JCharante/minecraft-mod) and [doing leetcode for fun](https://leetcode.com/JCharante/)
+
+https://profile-summary-for-github.com/user/JCharante
 
 ⚡ TIL Javascript's default .sort() method treats numbers as strings
 
