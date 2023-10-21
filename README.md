@@ -11,8 +11,53 @@ https://profile-summary-for-github.com/user/JCharante
 ![image](https://user-images.githubusercontent.com/13973198/89717086-05d3da00-d981-11ea-9cc8-693f73691fd3.png)
 
 
+Just for fun, some things about me
+
+## Frontend stacks by Year
+
+2014: jQuery, Bootstrap
+
+2015: Python, Flask + Jinja2, Bootstrap
+
+2016: Vue.js, Cordova, Android
+
+2017: Vue.js + Quasar Framework
+
+2018: Vue.js + Quasar Framework
+
+2019: Vue.js + Quasar Framework
+
+2020: React, Gatsby
+
+2021: React
+
+2022: React, Next.js
+
+2023: React, React Native, Next.js, Tailwind, 
+
+## Backend stacks by Year
+2014: Python, Flask, SQLAlchemy, jQuery
+
+2015: Python, Flask, SQAlchemy, SQLite
+
+2016: Python, Flask, SQAlchemy, SQLite, Java (Android & FRC)
+
+2017: Python, Flask, SQAlchemy, SQLite, Java (FRC)
+
+2018: Python, Flask, SQAlchemy, SQLite, MongoDB, Java (FRC)
+
+2019: Python, Go, Node.js, GraphQL, MongoDB
+
+2020: Python, Node.js, GraphQL
+
+2021: Node.js, MongoDB
+
+2022: Node.js, MongoDB
+
+2023: Node.js, Postgres, SQLite, Prisma, tRPC, Java (Minecraft)
+
+
 <!--
-**JCharante/JCharante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
