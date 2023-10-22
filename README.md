@@ -13,6 +13,9 @@ https://profile-summary-for-github.com/user/JCharante
 
 Just for fun, some things about me. I like learning languages (English, Spanish, Chinese, Vietnamese).
 
+💬 Funny trivia about me, when I was 15 I went to a local frontend meetup where that day the presentation was on Elm (it was super cool). I told everybody I was a student and a sophomore so I figured I should start attending dev meetups for fun (because I genuinely enjoy it), but they assumed I was a college sophomore instead of a high school sophomore because they offered me some beer. <!-- School ended at 3pm and the meetups didn't start until 7-8pm (after work hours) so I didn't go again because I didn't want to sit around 4 hours. In hindsight I could have chilled at the library. -->
+
+
 | Year | Frontend Stacks                 | Backend Stacks                                               |
 |------|---------------------------------|--------------------------------------------------------------|
 | 2014 | jQuery, Bootstrap               | Python, Flask, SQLAlchemy, jQuery                            |
@@ -25,7 +28,6 @@ Just for fun, some things about me. I like learning languages (English, Spanish,
 | 2021 | React                           | Node.js, MongoDB                                             |
 | 2022 | React, Next.js                  | Node.js, MongoDB                                             |
 | 2023 | React, React Native, Next.js, Tailwind | Node.js, Postgres, SQLite, Prisma, tRPC, Java (Minecraft)  |
-
 
 
 <!--
