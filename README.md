@@ -2,8 +2,6 @@ Blog: https://gist.github.com/JCharante
 
 About me: React developer who enjoys learning languages (English, Spanish, Chinese, Vietnamese)
 
-🔭 Working on [my Minecraft mod](https://github.com/JCharante/minecraft-mod) 
-
 https://profile-summary-for-github.com/user/JCharante
 
 ⚡ TIL Javascript's default .sort() method treats numbers as strings
